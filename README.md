@@ -1,4 +1,4 @@
-#Hello people, Vatsal here! 
+**Hello people, Vatsal here!**
 
 ![Neuroscience](https://img.shields.io/badge/Field-Neuroscience-blue)
 ![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-blue)
