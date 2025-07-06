@@ -21,31 +21,6 @@ I’m a neuroscience researcher and biomedical engineer with a passion for **fun
 - Spatial transcriptomics  
 - Advanced imaging & data normalization pipelines  
 
----
-
-## 🔬 Research & Academic Projects
-
-### 🧪 Master Thesis  
-**“The Changing Face of Microglia”**  
-🔹 Automated image analysis pipeline to study microglia phenotype dynamics  
-🔹 Techniques: ImageJ, segmentation, cell reconstruction, clustering  
-
-### 🧬 Epilepsy Research Project  
-**Low-Frequency Stimulation in Mesial Temporal Lobe Epilepsy**  
-🔹 Targeted hippocampal stimulation in mice  
-🔹 Outcome: Prevention of seizure generation  
-
-### 💻 Microglia Morphology Quantification  
-**Pro-inflammatory Response Using LPS**  
-🔹 Quantitative image analysis post-LPS exposure  
-🔹 Morphological reconstruction via imaging tools  
-
----
-
-## 👨‍🏫 Teaching Experience
-
-- **Neuroanatomy & Histology Lab Tutor** – Universität Freiburg  
-- **Neurophysiology Lab Tutor** – IMTEK, Freiburg  
 
 
 ---
