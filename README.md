@@ -1,53 +1,57 @@
-**Hello people, Vatsal here!**
+# 🧬 Vatsal Jariwala | Multi-Omics & Spatial Biology Bioinformatician
 
-![Neuroscience](https://img.shields.io/badge/Field-Neuroscience-blue)
-![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-blue)
-![Location](https://img.shields.io/badge/Location-Freiburg,%20Germany-green)
-![Email](https://img.shields.io/badge/Email-vatsjari@gmail.com-orange)
+![Neuroscience Bioinformatician](https://img.shields.io/badge/🔬-Neuroscience%20Bioinformatician-blueviolet)
+![Multi-Omics](https://img.shields.io/badge/📊-Multi--Omics%20Analyst-0088ff)
+![Spatial Biology](https://img.shields.io/badge/📍-Spatial%20Biology%20Expert-00aa88)
+![Location](https://img.shields.io/badge/📍-Freiburg,%20Germany-28a745)
+![Email](https://img.shields.io/badge/📧-vatsjari@gmail.com-orange)
 
-I’m a neuroscience researcher and biomedical engineer with a passion for **functional brain diagnostics, microglia morphology analysis**, and **single-nucleus RNA sequencing**. My work focuses on **multimodal data analysis**, including **image processing**, **bioinformatics**, and **neuroengineering techniques** for translational research.
+Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher** at Universitätsklinikum Freiburg specializing in **multi-modal brain analysis**, building bridges between **high-dimensional omics**, **spatial transcriptomics**, and **morphological phenotyping** to decode brain function and pathology.
 
----
+## 🎯 **Expertise at a Glance**
 
-## 🧠 Current Position
+### **📍 Spatial Biology**
+- **Spatial Transcriptomics**: VisiumHD, MERFISH, analysis
+- **Spatial Proteomics**: Imaging mass cytometry, multiplexed immunofluorescence
+- **Spatial Statistics**: SpatialDE, SPARK, neighborhood analysis, cell-cell interactions
 
-**Doctoral Researcher**  
-📍 *Department of Neurosurgery, Universitätsklinikum Freiburg*  
-🗓️ *Since June 2023*  
-**Project**: Developing a novel quantum neuro-analyzer (QNA) for intraoperative tumor diagnostics and functional mapping.  
-**Methods**:  
-- Human organotypic slice culture  
-- Single-cell & single-nucleus RNA-seq  
-- Spatial transcriptomics  
-- Advanced imaging & data normalization pipelines  
+### **🧬 Multi-Omics Integration**
+- **Cross-platform Integration**: scRNA-seq + spatial + morphological data fusion
+- **Single-cell Multi-omics**: CITE-seq, ATAC+RNA multiome, REAP-seq
+- **Integration Methods**: WGCNA, MOFA, Seurat v5 integration, Harmony
 
+### **🔬 Quantitative Morphology & Imaging**
+- **High-content Analysis**: CellProfiler, ImageJ/Fiji pipelines
+- **Morphological Phenotyping**: Feature extraction, cluster enrichment, trajectory analysis
+- **Calcium Imaging**: GCaMP analysis, signal processing, event detection
 
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming & Scripting**: R, ImageJ Macro, Python (basic), Bash  
-- **Data Science**: Seurat, SCT normalization, sc/snRNA-seq  
-- **Image Analysis**: ImageJ/Fiji, CLAHE, Gaussian filtering  
-- **Platforms**: Linux, GitHub, Bioinformatics pipelines  
-- **Languages**: English (fluent), German (intermediate), Hindi (native)
+### **🧠 Neuroscience Applications**
+- **Microglia Morphology Atlas Construction**: Multi-modal mapping
+- **Neurodegeneration**: Multi-omics biomarker discovery in Alzheimer's/Parkinson's
+- **Brain Tumors**: Glioma microenvironment, spatial heterogeneity
+- **Neuroinflammation**: Microglia/astrocyte activation states
 
 ---
 
-## 📚 Education
+## 🛠️ **Technical Stack**
 
-**M.Sc. Neuroscience** – Universität Freiburg  
-**B.Eng. Biomedical Engineering** – India  
-
----
-
-## 📫 Contact
-
-📍 Freiburg im Breisgau, Germany  
-📧 vatsjari@gmail.com
+**Primary Languages**: R/Tidyverse (95%), Python (70%), Bash (85%)  
+**Analysis Tools**: Seurat, Scanpy, CellProfiler, Squidpy, Giotto  
+**Workflow**: Nextflow, Snakemake, Docker/Singularity, HPC/SLURM  
+**Visualization**: ggplot2, ComplexHeatmaps, plotly, Shiny dashboards
 
 ---
 
-Thanks for visiting my profile! 🙌  
-Let's connect and collaborate on neuroscience, bioinformatics, or imaging research!
+## 📫 **Connect & Collaborate**
+
+[![Email](https://img.shields.io/badge/📧_vatsjari@gmail.com-EA4335?style=flat&logo=gmail)](mailto:vatsjari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vatsal-jariwala)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat&logo=github)](https://github.com/vatsalj)
+
+**📍 Location**: Freiburg, Germany  
+**🌍 Languages**: English (Fluent), German (B1), Hindi (Native)  
+**🎯 Open to**: Collaborations, consulting, and challenging multi-omics projects
+
+---
+
+*"Complex biological systems demand multi-modal approaches. I build computational frameworks where genomics meets morphology, spatial organization meets function, and data layers converge into biological insight."*
