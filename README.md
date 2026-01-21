@@ -2,7 +2,6 @@
 
 ![Neuroscience Bioinformatician](https://img.shields.io/badge/🔬-Neuroscience%20Bioinformatician-blueviolet)
 ![Multi-Omics](https://img.shields.io/badge/📊-Multi--Omics%20Analyst-0088ff)
-![Spatial Biology](https://img.shields.io/badge/📍-Spatial%20Biology%20)
 ![Location](https://img.shields.io/badge/📍-Freiburg,%20Germany-28a745)
 ![Email](https://img.shields.io/badge/📧-vatsjari@gmail.com-orange)
 
