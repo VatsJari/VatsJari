@@ -48,7 +48,7 @@ Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat&logo=github)](https://github.com/vatsalj)
 
 **📍 Location**: Freiburg, Germany  
-**🌍 Languages**: English (Fluent), German (B1), Hindi (Native)  
+**🌍 Languages**: English (Fluent), German (A1), Hindi (Native)  
 **🎯 Open to**: Collaborations, consulting, and challenging multi-omics projects
 
 ---
