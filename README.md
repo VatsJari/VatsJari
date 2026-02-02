@@ -10,13 +10,11 @@ Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher
 ## 🎯 **Expertise at a Glance**
 
 ### **📍 Spatial Biology**
-- **Spatial Transcriptomics**: VisiumHD, MERFISH, analysis
-- **Spatial Proteomics**: Imaging mass cytometry, multiplexed immunofluorescence
+- **Spatial Proteomics**: multiplexed immunofluorescence
 - **Spatial Statistics**: SpatialDE, SPARK, neighborhood analysis, cell-cell interactions
 
 ### **🧬 Multi-Omics Integration**
 - **Cross-platform Integration**: scRNA-seq + spatial + morphological data fusion
-- **Single-cell Multi-omics**: CITE-seq, ATAC+RNA multiome, REAP-seq
 - **Integration Methods**: WGCNA, MOFA, Seurat v5 integration, Harmony
 
 ### **🔬 Quantitative Morphology & Imaging**
