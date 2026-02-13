@@ -32,9 +32,9 @@ Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher
 
 ## 🛠️ **Technical Stack**
 
-**Primary Languages**: R/Tidyverse (95%), Python (70%), Bash (85%)  
-**Analysis Tools**: Seurat, Scanpy, CellProfiler, Squidpy, Giotto  
-**Workflow**: Nextflow, Snakemake, Docker/Singularity, HPC/SLURM  
+**Primary Languages**: R, Python, Bash  
+**Analysis Tools**: Seurat, Scanpy, MicroFaceV2, CellProfiler, Squidpy, Giotto  
+**Workflow**: MagiCAL, MicroFcae, Docker/Singularity, HPC/SLURM  
 **Visualization**: ggplot2, ComplexHeatmaps, plotly, Shiny dashboards
 
 ---
