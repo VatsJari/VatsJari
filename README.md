@@ -1,4 +1,4 @@
-# 🧬 Vatsal Jariwala | Multi-Omics & Spatial Biology Bioinformatician
+# 🧬 Vatsal Jariwala | Multi-Omics & Spatial Biology
 
 ![Neuroscience Bioinformatician](https://img.shields.io/badge/🔬-Neuroscience%20Bioinformatician-blueviolet)
 ![Multi-Omics](https://img.shields.io/badge/📊-Multi--Omics%20Analyst-0088ff)
