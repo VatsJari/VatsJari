@@ -26,7 +26,7 @@ Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher
 - **Microglia Morphology Atlas Construction**: Multi-modal mapping
 - **Neurodegeneration**: Multi-omics biomarker discovery in Alzheimer's/Parkinson's
 - **Brain Tumors**: Glioma microenvironment, spatial heterogeneity
-- **Neuroinflammation**: Microglia/astrocyte activation states
+- **Neuroinflammation**: Microglia/astrocyte activation state
 
 ---
 
