@@ -7,7 +7,7 @@
 
 Welcome to my computational neuroscience playground! I'm a **Doctoral Researcher** at Universitätsklinikum Freiburg specializing in **multi-modal brain analysis**, building bridges between **high-dimensional omics**, **spatial transcriptomics**, and **morphological phenotyping** to decode brain function and pathology.
 
-## 🎯 **Expertise at a Glance**
+## 🎯 **Expertise**
 
 ### **📍 Spatial Biology**
 - **Spatial Proteomics**: multiplexed immunofluorescence
